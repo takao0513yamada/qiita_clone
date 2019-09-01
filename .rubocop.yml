@@ -1,10 +1,10 @@
 require:
-	  - rubocop-rails
+    - rubocop-rails
 
 	inherit_from:
-	  - config/rubocop/rubocop.yml
-	  - config/rubocop/rails.yml
-	  - config/rubocop/rspec.yml
+    - config/rubocop/rubocop.yml
+    - config/rubocop/rails.yml
+    - config/rubocop/rspec.yml
     - .rubocop_todo.yml
 
 	AllCops:
