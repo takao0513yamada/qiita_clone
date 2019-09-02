@@ -25,6 +25,7 @@ module QiitaClone
                        helper_specs: false,
                        controller_specs: false,
                        request_specs: true
+                       routing_specs: false
     end
     config.api_only = true
     # Settings in config/environments/* take precedence over those specified here.
