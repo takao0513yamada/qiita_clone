@@ -24,7 +24,7 @@ module QiitaClone
                        view_specs: false,
                        helper_specs: false,
                        controller_specs: false,
-                       request_specs: true
+                       request_specs: true,
                        routing_specs: false
     end
     config.api_only = true
